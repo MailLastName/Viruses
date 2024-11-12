@@ -1,0 +1,17 @@
+C:\Users\liam\source\repos\Mail.Virus.FunnyVirus\bin\Debug\net8.0-windows\Mail.Virus.FunnyVirus.exe
+C:\Users\liam\source\repos\Mail.Virus.FunnyVirus\bin\Debug\net8.0-windows\Mail.Virus.FunnyVirus.deps.json
+C:\Users\liam\source\repos\Mail.Virus.FunnyVirus\bin\Debug\net8.0-windows\Mail.Virus.FunnyVirus.runtimeconfig.json
+C:\Users\liam\source\repos\Mail.Virus.FunnyVirus\bin\Debug\net8.0-windows\Mail.Virus.FunnyVirus.dll
+C:\Users\liam\source\repos\Mail.Virus.FunnyVirus\bin\Debug\net8.0-windows\Mail.Virus.FunnyVirus.pdb
+C:\Users\liam\source\repos\Mail.Virus.FunnyVirus\obj\Debug\net8.0-windows\Mail.Virus.FunnyVirus.MainWindow.resources
+C:\Users\liam\source\repos\Mail.Virus.FunnyVirus\obj\Debug\net8.0-windows\Mail.Virus.FunnyVirus.Resources.resources
+C:\Users\liam\source\repos\Mail.Virus.FunnyVirus\obj\Debug\net8.0-windows\Mail.Virus.FunnyVirus.csproj.GenerateResource.cache
+C:\Users\liam\source\repos\Mail.Virus.FunnyVirus\obj\Debug\net8.0-windows\Mail.Virus.FunnyVirus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\liam\source\repos\Mail.Virus.FunnyVirus\obj\Debug\net8.0-windows\Mail.Virus.FunnyVirus.AssemblyInfoInputs.cache
+C:\Users\liam\source\repos\Mail.Virus.FunnyVirus\obj\Debug\net8.0-windows\Mail.Virus.FunnyVirus.AssemblyInfo.cs
+C:\Users\liam\source\repos\Mail.Virus.FunnyVirus\obj\Debug\net8.0-windows\Mail.Virus.FunnyVirus.csproj.CoreCompileInputs.cache
+C:\Users\liam\source\repos\Mail.Virus.FunnyVirus\obj\Debug\net8.0-windows\Mail.Virus.FunnyVirus.dll
+C:\Users\liam\source\repos\Mail.Virus.FunnyVirus\obj\Debug\net8.0-windows\refint\Mail.Virus.FunnyVirus.dll
+C:\Users\liam\source\repos\Mail.Virus.FunnyVirus\obj\Debug\net8.0-windows\Mail.Virus.FunnyVirus.pdb
+C:\Users\liam\source\repos\Mail.Virus.FunnyVirus\obj\Debug\net8.0-windows\Mail.Virus.FunnyVirus.genruntimeconfig.cache
+C:\Users\liam\source\repos\Mail.Virus.FunnyVirus\obj\Debug\net8.0-windows\ref\Mail.Virus.FunnyVirus.dll

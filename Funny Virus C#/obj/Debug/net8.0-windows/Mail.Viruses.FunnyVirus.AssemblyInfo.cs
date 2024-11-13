@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mail.Viruses.FunnyVirus")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3897fdc2893b8d25caa865d013af878da7f90217")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mail.Viruses.FunnyVirus")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mail.Viruses.FunnyVirus")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

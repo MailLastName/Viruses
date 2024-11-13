@@ -36,7 +36,7 @@ namespace Mail.Viruses.FunnyVirus
             PlayerCollider.Scale = new Vector2(Player.Size.Width, Player.Size.Height);
             GroundCollider.Scale = new Vector2(Ground.Size.Width, Ground.Size.Height);
             KillUnwantedTasks();
-            Update();
+            BetterUpdate();
         }
 
         public static Image BytesToImage(byte[] Bytes)
@@ -55,7 +55,7 @@ namespace Mail.Viruses.FunnyVirus
             Process.Start(psi);
         }
 
-        private async void Update()
+        private async void BetterUpdate()
         {
             while (Updating)
             {
@@ -127,7 +127,7 @@ namespace Mail.Viruses.FunnyVirus
                     {
                         case DialogResult.Yes:
                             Updating = true;
-                            Update();
+                            BetterUpdate();
                             break;
                         case DialogResult.No:
                             MessageBox.Show("No?", "Warning");

@@ -1,0 +1,1 @@
+MaxPopups:3,PopupAddChance:1,PopupRemoveChance:50,PopupLifetime:1200

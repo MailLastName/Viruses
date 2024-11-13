@@ -1,0 +1,18 @@
+C:\Users\liam\source\repos\Viruses\Benny Virus C#\bin\Debug\net8.0-windows\Benny Virus.exe
+C:\Users\liam\source\repos\Viruses\Benny Virus C#\bin\Debug\net8.0-windows\Benny Virus.deps.json
+C:\Users\liam\source\repos\Viruses\Benny Virus C#\bin\Debug\net8.0-windows\Benny Virus.runtimeconfig.json
+C:\Users\liam\source\repos\Viruses\Benny Virus C#\bin\Debug\net8.0-windows\Benny Virus.dll
+C:\Users\liam\source\repos\Viruses\Benny Virus C#\bin\Debug\net8.0-windows\Benny Virus.pdb
+C:\Users\liam\source\repos\Viruses\Benny Virus C#\obj\Debug\net8.0-windows\Benny_Virus.Form1.resources
+C:\Users\liam\source\repos\Viruses\Benny Virus C#\obj\Debug\net8.0-windows\Benny Virus.csproj.GenerateResource.cache
+C:\Users\liam\source\repos\Viruses\Benny Virus C#\obj\Debug\net8.0-windows\Benny Virus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\liam\source\repos\Viruses\Benny Virus C#\obj\Debug\net8.0-windows\Benny Virus.AssemblyInfoInputs.cache
+C:\Users\liam\source\repos\Viruses\Benny Virus C#\obj\Debug\net8.0-windows\Benny Virus.AssemblyInfo.cs
+C:\Users\liam\source\repos\Viruses\Benny Virus C#\obj\Debug\net8.0-windows\Benny Virus.csproj.CoreCompileInputs.cache
+C:\Users\liam\source\repos\Viruses\Benny Virus C#\obj\Debug\net8.0-windows\Benny Virus.sourcelink.json
+C:\Users\liam\source\repos\Viruses\Benny Virus C#\obj\Debug\net8.0-windows\Benny Virus.dll
+C:\Users\liam\source\repos\Viruses\Benny Virus C#\obj\Debug\net8.0-windows\refint\Benny Virus.dll
+C:\Users\liam\source\repos\Viruses\Benny Virus C#\obj\Debug\net8.0-windows\Benny Virus.pdb
+C:\Users\liam\source\repos\Viruses\Benny Virus C#\obj\Debug\net8.0-windows\Benny Virus.genruntimeconfig.cache
+C:\Users\liam\source\repos\Viruses\Benny Virus C#\obj\Debug\net8.0-windows\ref\Benny Virus.dll
+C:\Users\liam\source\repos\Viruses\Benny Virus C#\obj\Debug\net8.0-windows\Benny_Virus.Resources.resources

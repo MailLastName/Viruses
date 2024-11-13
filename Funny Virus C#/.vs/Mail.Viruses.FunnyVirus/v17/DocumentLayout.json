@@ -1,29 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\liam\\source\\repos\\Viruses\\Funny Virus\\",
+  "WorkspaceRootPath": "C:\\Users\\liam\\source\\repos\\Viruses\\Funny Virus C#\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0C5DE514-F0C5-4EED-BF6E-4B225ADFF17C}|Mail.Viruses.FunnyVirus.csproj|c:\\users\\liam\\source\\repos\\viruses\\funny virus\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0C5DE514-F0C5-4EED-BF6E-4B225ADFF17C}|Mail.Viruses.FunnyVirus.csproj|c:\\users\\liam\\source\\repos\\viruses\\funny virus c#\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C5DE514-F0C5-4EED-BF6E-4B225ADFF17C}|Mail.Viruses.FunnyVirus.csproj|solutionrelative:mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C5DE514-F0C5-4EED-BF6E-4B225ADFF17C}|Mail.Viruses.FunnyVirus.csproj|c:\\users\\liam\\source\\repos\\viruses\\funny virus\\collider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0C5DE514-F0C5-4EED-BF6E-4B225ADFF17C}|Mail.Viruses.FunnyVirus.csproj|c:\\users\\liam\\source\\repos\\viruses\\funny virus c#\\collider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C5DE514-F0C5-4EED-BF6E-4B225ADFF17C}|Mail.Viruses.FunnyVirus.csproj|solutionrelative:collider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C5DE514-F0C5-4EED-BF6E-4B225ADFF17C}|Mail.Viruses.FunnyVirus.csproj|c:\\users\\liam\\source\\repos\\viruses\\funny virus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0C5DE514-F0C5-4EED-BF6E-4B225ADFF17C}|Mail.Viruses.FunnyVirus.csproj|c:\\users\\liam\\source\\repos\\viruses\\funny virus c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C5DE514-F0C5-4EED-BF6E-4B225ADFF17C}|Mail.Viruses.FunnyVirus.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C5DE514-F0C5-4EED-BF6E-4B225ADFF17C}|Mail.Viruses.FunnyVirus.csproj|C:\\Users\\liam\\source\\repos\\Viruses\\Funny Virus\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{0C5DE514-F0C5-4EED-BF6E-4B225ADFF17C}|Mail.Viruses.FunnyVirus.csproj|C:\\Users\\liam\\source\\repos\\Viruses\\Funny Virus C#\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0C5DE514-F0C5-4EED-BF6E-4B225ADFF17C}|Mail.Viruses.FunnyVirus.csproj|solutionrelative:mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C5DE514-F0C5-4EED-BF6E-4B225ADFF17C}|Mail.Viruses.FunnyVirus.csproj|c:\\users\\liam\\source\\repos\\viruses\\funny virus\\mail.viruses.funnyvirus.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{0C5DE514-F0C5-4EED-BF6E-4B225ADFF17C}|Mail.Viruses.FunnyVirus.csproj|c:\\users\\liam\\source\\repos\\viruses\\funny virus c#\\mail.viruses.funnyvirus.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{0C5DE514-F0C5-4EED-BF6E-4B225ADFF17C}|Mail.Viruses.FunnyVirus.csproj|solutionrelative:mail.viruses.funnyvirus.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C5DE514-F0C5-4EED-BF6E-4B225ADFF17C}|Mail.Viruses.FunnyVirus.csproj|c:\\users\\liam\\source\\repos\\viruses\\funny virus\\mainwindow.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0C5DE514-F0C5-4EED-BF6E-4B225ADFF17C}|Mail.Viruses.FunnyVirus.csproj|c:\\users\\liam\\source\\repos\\viruses\\funny virus c#\\mainwindow.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C5DE514-F0C5-4EED-BF6E-4B225ADFF17C}|Mail.Viruses.FunnyVirus.csproj|solutionrelative:mainwindow.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -40,9 +40,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "MainWindow.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\liam\\source\\repos\\Viruses\\Funny Virus\\MainWindow.cs",
+              "DocumentMoniker": "C:\\Users\\liam\\source\\repos\\Viruses\\Funny Virus C#\\MainWindow.cs",
               "RelativeDocumentMoniker": "MainWindow.cs",
-              "ToolTip": "C:\\Users\\liam\\source\\repos\\Viruses\\Funny Virus\\MainWindow.cs [Design]",
+              "ToolTip": "C:\\Users\\liam\\source\\repos\\Viruses\\Funny Virus C#\\MainWindow.cs [Design]",
               "RelativeToolTip": "MainWindow.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-12T06:23:32.738Z",
@@ -52,11 +52,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.cs",
-              "DocumentMoniker": "C:\\Users\\liam\\source\\repos\\Viruses\\Funny Virus\\MainWindow.cs",
+              "DocumentMoniker": "C:\\Users\\liam\\source\\repos\\Viruses\\Funny Virus C#\\MainWindow.cs",
               "RelativeDocumentMoniker": "MainWindow.cs",
-              "ToolTip": "C:\\Users\\liam\\source\\repos\\Viruses\\Funny Virus\\MainWindow.cs",
+              "ToolTip": "C:\\Users\\liam\\source\\repos\\Viruses\\Funny Virus C#\\MainWindow.cs",
               "RelativeToolTip": "MainWindow.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAADwvx8AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwCkAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-11T06:51:12.374Z",
               "EditorCaption": ""
@@ -65,9 +65,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Collider.cs",
-              "DocumentMoniker": "C:\\Users\\liam\\source\\repos\\Viruses\\Funny Virus\\Collider.cs",
+              "DocumentMoniker": "C:\\Users\\liam\\source\\repos\\Viruses\\Funny Virus C#\\Collider.cs",
               "RelativeDocumentMoniker": "Collider.cs",
-              "ToolTip": "C:\\Users\\liam\\source\\repos\\Viruses\\Funny Virus\\Collider.cs",
+              "ToolTip": "C:\\Users\\liam\\source\\repos\\Viruses\\Funny Virus C#\\Collider.cs",
               "RelativeToolTip": "Collider.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -77,9 +77,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Mail.Viruses.FunnyVirus.csproj",
-              "DocumentMoniker": "C:\\Users\\liam\\source\\repos\\Viruses\\Funny Virus\\Mail.Viruses.FunnyVirus.csproj",
+              "DocumentMoniker": "C:\\Users\\liam\\source\\repos\\Viruses\\Funny Virus C#\\Mail.Viruses.FunnyVirus.csproj",
               "RelativeDocumentMoniker": "Mail.Viruses.FunnyVirus.csproj",
-              "ToolTip": "C:\\Users\\liam\\source\\repos\\Viruses\\Funny Virus\\Mail.Viruses.FunnyVirus.csproj",
+              "ToolTip": "C:\\Users\\liam\\source\\repos\\Viruses\\Funny Virus C#\\Mail.Viruses.FunnyVirus.csproj",
               "RelativeToolTip": "Mail.Viruses.FunnyVirus.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -89,9 +89,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\liam\\source\\repos\\Viruses\\Funny Virus\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\liam\\source\\repos\\Viruses\\Funny Virus C#\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\liam\\source\\repos\\Viruses\\Funny Virus\\Program.cs",
+              "ToolTip": "C:\\Users\\liam\\source\\repos\\Viruses\\Funny Virus C#\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -101,9 +101,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "MainWindow.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\liam\\source\\repos\\Viruses\\Funny Virus\\MainWindow.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\liam\\source\\repos\\Viruses\\Funny Virus C#\\MainWindow.Designer.cs",
               "RelativeDocumentMoniker": "MainWindow.Designer.cs",
-              "ToolTip": "C:\\Users\\liam\\source\\repos\\Viruses\\Funny Virus\\MainWindow.Designer.cs",
+              "ToolTip": "C:\\Users\\liam\\source\\repos\\Viruses\\Funny Virus C#\\MainWindow.Designer.cs",
               "RelativeToolTip": "MainWindow.Designer.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAkwBYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
